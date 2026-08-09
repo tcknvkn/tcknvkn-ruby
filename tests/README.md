@@ -1,4 +1,4 @@
-﻿# Test Çalıştırma
+# Test Çalıştırma
 
 ```bash
 ruby -Ilib tests/test_tcknvkn.rb

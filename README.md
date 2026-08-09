@@ -1,4 +1,4 @@
-﻿# tcknvkn (Ruby)
+# tcknvkn (Ruby)
 
 `tcknvkn`, Ruby projelerinde Türkiye Cumhuriyeti Kimlik Numarası (TCKN) ve Vergi Kimlik Numarası (VKN) doğrulaması yapmak için geliştirilmiş hafif bir kütüphanedir.
 

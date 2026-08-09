@@ -1,4 +1,4 @@
-﻿# Örnekler
+# Örnekler
 
 Aşağıdaki komut ile temel örnekleri çalıştırabilirsiniz:
 
